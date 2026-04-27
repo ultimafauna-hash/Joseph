@@ -1,0 +1,7 @@
+1| import React from 'react';
+2| import FeaturedSection from './components/home/FeaturedSection';
+3| 
+4| // Adding props to HomeView
+5| // {currentView === 'home' ? (<HomeView
+6| onCategoryClick={handleCategoryClick}
+7| onSubCategoryClick={handleSubCategoryClick}/>...Rest 
